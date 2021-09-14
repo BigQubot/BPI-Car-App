@@ -15,4 +15,4 @@ websocket controls the car, the characters sent are as follows
 右拐  R
 后退  B
 
-Download APP [HERE](https://github.com/BigQubot/BPI-Car-App/blob/main/release/app-release.apk)
+Download APP [HERE](https://github.com/BigQubot/BPI-Car-App/raw/main/release/app-release.apk)
