@@ -15,4 +15,4 @@ websocket 控制小车,发送的字符如下
 右拐  R
 后退  B
 
-点[这里](https://github.com/BigQubot/BPI-Car-App/blob/main/release/app-release.apk)下载 APP
+点[这里](https://github.com/BigQubot/BPI-Car-App/raw/main/release/app-release.apk)下载 APP
