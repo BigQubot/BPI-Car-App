@@ -1,3 +1,4 @@
+[中文](README_zh.md)
 # introduce
 
 Flutter-based app can be used under Android, iOS, WIN, MAC, Linux, and can be used to control BananaPi, RaspberryPi, ESP32, etc.
